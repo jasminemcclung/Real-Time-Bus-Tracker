@@ -2,7 +2,7 @@
 
 ## Adding animation to maps
 
-<img src= "map.png"width='300'/>
+<img src= "map.png" width='300'/>
 
 In this animation exercise, the objective was to show every bus stop between the MIT and Harvard campuses and utilize the Mapbox open source platform to create and display a map on a web page, which would ilustrate with a marker the location of each stop second by second, beginning at the MIT campus until arrival at the Harvard campus. 
 
